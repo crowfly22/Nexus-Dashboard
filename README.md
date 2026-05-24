@@ -3,7 +3,7 @@
 **Premium SaaS Analytics Dashboard** — futuristic UI with glassmorphism, real-time widgets, and AI assistant
 
 ## Live Demo
-**[https://nexus-dashboard.vercel.app](https://nexus-dashboard.vercel.app)**
+**[https://nexus-analytics-alpha.vercel.app](https://nexus-analytics-alpha.vercel.app)**
 
 ## Screenshots
 

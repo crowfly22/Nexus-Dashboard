@@ -1,5 +1,7 @@
 {
-  "framework": null,
+  "name": "nexus-analytics",
   "buildCommand": "",
-  "outputDirectory": "out"
+  "outputDirectory": "out",
+  "framework": null,
+  "cleanUrls": true
 }
