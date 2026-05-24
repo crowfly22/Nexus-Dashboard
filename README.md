@@ -1,4 +1,4 @@
-# Nexus Dashboard
+# Nexus Analytics Alpha
 
 **World-class premium SaaS analytics dashboard** — futuristic UI with glassmorphism, real-time widgets, and AI assistant
 
@@ -20,11 +20,11 @@
 
 <div align="center">
 
-![Dashboard Overview](https://raw.githubusercontent.com/crowfly22/Nexus-Dashboard/main/public/screenshot-dashboard.png)
+![Dashboard Overview](https://raw.githubusercontent.com/crowfly22/nexus-analytics-alpha/main/public/screenshot-dashboard.png)
 
-![Analytics & Charts](https://raw.githubusercontent.com/crowfly22/Nexus-Dashboard/main/public/screenshot-analytics.png)
+![Analytics & Charts](https://raw.githubusercontent.com/crowfly22/nexus-analytics-alpha/main/public/screenshot-analytics.png)
 
-![Data Table](https://raw.githubusercontent.com/crowfly22/Nexus-Dashboard/main/public/screenshot-table.png)
+![Data Table](https://raw.githubusercontent.com/crowfly22/nexus-analytics-alpha/main/public/screenshot-table.png)
 
 </div>
 
@@ -129,8 +129,8 @@ nexus-dashboard/
 
 ```bash
 # Clone repository
-git clone https://github.com/crowfly22/Nexus-Dashboard.git
-cd Nexus-Dashboard
+git clone https://github.com/crowfly22/nexus-analytics-alpha.git
+cd nexus-analytics-alpha
 
 # Install dependencies
 npm install
